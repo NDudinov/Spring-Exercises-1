@@ -1,2 +1,2 @@
 # Spring-Exercises-1
-CHecking Spring and trying some stuff
+Checking Spring and trying some stuff
